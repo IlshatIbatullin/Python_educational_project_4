@@ -74,3 +74,4 @@ for c in text:
 
 result += first + str(count)  # и добавляем в результат последний символ
 print(result)
+#t_13.8.1
