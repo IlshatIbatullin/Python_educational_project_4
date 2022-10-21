@@ -1,4 +1,3 @@
-# Задание 13.8.19.
 # Программа для онлайн-конференции, которая подсчитывает общую стоимость билетов.
 # numbers_of_tickets количество билетов
 # age_of_the_visitor возраст посетителя
@@ -26,3 +25,4 @@ if numbers_of_tickets > 3 and total_ticket_price != 0:
     print('Сумма к оплате со скидкой: ' + str(total_ticket_price))
 else:
     print('Сумма к оплате: ' + str(total_ticket_price))
+#13.8.19
